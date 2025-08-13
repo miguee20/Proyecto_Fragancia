@@ -111,7 +111,7 @@ Debe de imprimir en consola:📍 El servidor estará corriendo en: http://localh
 
 - ❌ No se incluye el módulo de devoluciones, ya que fue descartado del alcance actual.
 
-## 💻 Desarrollado por Miguel Salguero, Iván Ordoñez, Jose López
+## 💻 Desarrollado por Miguel Salguero *proyecto no terminado :(
 
 
 
